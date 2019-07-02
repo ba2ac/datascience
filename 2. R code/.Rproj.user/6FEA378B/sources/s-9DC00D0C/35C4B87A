@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562059986741.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "35C4B87A",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1562059986741,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "1AD0900D",
+        "caption" : "flights_want",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=flights_want&cache_key=1AD0900D",
+        "displayedObservations" : 336776,
+        "environment" : "",
+        "object" : "flights_want",
+        "preview" : 0,
+        "totalObservations" : 336776,
+        "variables" : 9
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

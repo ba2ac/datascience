@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562059485565.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8C00BCF7",
+    "lastKnownWriteTime" : 1562062301,
+    "last_content_update" : 1562062316864,
+    "path" : "~/Documents/iXperience/2. R code/2a. Manipulate data.R",
+    "project_path" : "2a. Manipulate data.R",
+    "properties" : {
+        "cursorPosition" : "240,25",
+        "scrollLine" : "227"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

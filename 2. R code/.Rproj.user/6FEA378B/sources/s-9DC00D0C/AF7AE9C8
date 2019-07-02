@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562061497740.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AF7AE9C8",
+    "lastKnownWriteTime" : 7453010313424731904,
+    "last_content_update" : 1562061497740,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5166B481",
+        "caption" : "flights_date",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=flights_date&cache_key=5166B481",
+        "displayedObservations" : 336776,
+        "environment" : "",
+        "object" : "flights_date",
+        "preview" : 0,
+        "totalObservations" : 336776,
+        "variables" : 12
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
